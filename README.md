@@ -59,6 +59,8 @@ nums.forEach((num) => (sum += num));
 console.log(sum);
 ```
 
+BRANCHES!
+
 It turns out this is a common enough pattern, that the JS folks made us a method for it.
 
 ```js
